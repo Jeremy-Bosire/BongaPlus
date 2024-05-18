@@ -26,8 +26,8 @@ BongaPlus is a next-generation social platform designed to facilitate inclusive 
 
 ## 🔥🔥 Links 🔥🔥
 
-- **Pitch Deck**: [View Our Pitch Deck](#)
-- **Figma Prototype**: [View Our Figma Prototype](#)
+- **Pitch Deck**: [View Our Pitch Deck](https://prezi.com/view/2YFkxCEWh9vcgAr3zV0l/)
+- **Figma Prototype**: [View Our Figma Prototype](https://www.figma.com/design/MoQ5wBQJK15e2JTU80sRYn/Bonga-Plus?node-id=0%3A1&t=8HUOxp0khjhqflvC-1)
   
 ## Inspiration
 
