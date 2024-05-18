@@ -1,6 +1,6 @@
 <h1 align="center"> 🌐 BongaPlus 🌐 </h1>
 
-<img src="">
+<img src="https://github.com/Jeremy-Bosire/BongaPlus/blob/main/Dark%20Abstract%20Black%20Panther%20Gaming%20Logo.png">
 
 <a href="https://github.com/starlightknown/LearnScape"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 <a href="https://github.com/starlightknown/LearnScape"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
@@ -9,12 +9,12 @@
  
 Table of Contents
 =================
+- [Overview](#overview)
+- [Features](#features)
+- [Links](#🔥🔥-links-🔥🔥)
+- [Inspiration](#inspiration)
+- [What It Does](#what-it-does)
 
-  * [Overview](#Overview)
-  * [Features](#Features)
-  * [Links](#Links)
-  * [Inspiration](#Inspiration)
-  * [What it does](#What_ItDoes)
   
 ## Overview
 BongaPlus is a next-generation social platform designed to facilitate inclusive communication across different languages and cultures. By leveraging real-time translation and speech recognition technologies, BongaPlus allows users to chat seamlessly, irrespective of language barriers.
@@ -24,7 +24,8 @@ BongaPlus is a next-generation social platform designed to facilitate inclusive 
 - **Speech Recognition and Translation**: A feature that takes in audio, translates it into the specified language, and plays the translated audio for users not texting.
 - **User Profiles**: Users can set their default language and unique username for personalized communication.
 
-## Links
+## 🔥🔥 Links 🔥🔥
+
 - **Pitch Deck**: [View Our Pitch Deck](#)
 - **Figma Prototype**: [View Our Figma Prototype](#)
   
